@@ -1,6 +1,6 @@
 # Hi, I'm Jordi! 👋
 
-I’m an aspiring software engineer who loves building websites and learning new things.
+I’m an up and coming software engineer who loves building websites and learning new things.
 Right now, I’m focused on system design and improving my full-stack web development skills.
 
 I know the fundamentals of web development, and I’ve recently worked with Next.js to create several full-stack applications.
