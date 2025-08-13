@@ -68,3 +68,7 @@ Outside of coding, I enjoy hiking, exploring nature, and wandering through the c
   </div>
 
 </div>
+
+## Blogs & Writing
+
+- [**My Transition from JavaScript to TypeScript**](https://dev.to/jordid13/my-transition-from-javascript-to-typescript-12e) — My personal experience diving into TypeScript: what drew me in, how it’s a superset of JavaScript, and how static typing and interfaces have empowered my code.  
