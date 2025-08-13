@@ -59,4 +59,12 @@ Outside of coding, I enjoy hiking, exploring nature, and wandering through the c
     </div>
   </div>
 
+  <!-- Testing -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <strong>Testing</strong>
+    <div style="display: flex; gap: 20px; margin-top: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
+    </div>
+  </div>
+
 </div>
