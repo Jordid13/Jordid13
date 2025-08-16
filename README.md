@@ -1,73 +1,36 @@
 # Hi, I'm Jordi! 👋
-
-I’m an up and coming software engineer who loves building websites and learning new things.
-Right now, I’m focused on system design and improving my full-stack web development skills.
-
-I know the fundamentals of web development, and I’ve recently worked with Next.js to create several full-stack applications.
-
+I'm an up and coming software engineer who loves building websites and learning new things.  
+Right now, I'm focused on system design and improving my full-stack web development skills.  
+I know the fundamentals of web development, and I've recently worked with Next.js to create several full-stack applications.  
 Outside of coding, I enjoy hiking, exploring nature, and wandering through the city to find new places.
 
-## Technologies
+## 🛠️ Technologies
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start;">
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-  <!-- Frontend -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Frontend</strong>
-    <div style="display: flex; gap: 20px; margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-    </div>
-  </div>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <!-- Backend -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Backend</strong>
-    <div style="display: flex; gap: 20px; margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-    </div>
-  </div>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  <!-- Databases -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Databases</strong>
-    <div style="display: flex; gap: 20px; margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-    </div>
-  </div>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-  <!-- Cloud / DevOps -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Cloud / DevOps</strong>
-    <div style="display: flex; gap: 20px; margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-    </div>
-  </div>
-
-  <!-- Languages -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Languages</strong>
-    <div style="display: flex; gap: 20px; margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-    </div>
-  </div>
-
-  <!-- Testing -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <strong>Testing</strong>
-    <div style="display: flex; gap: 20px; margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="64" height="64" style="background-color: white; border-radius: 12px; padding: 8px;" />
-    </div>
-  </div>
-
-</div>
+### Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=systemd&logoColor=white)
 
 ## Blogs & Writing
 
