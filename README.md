@@ -38,3 +38,7 @@ Outside of coding, I enjoy hiking, exploring nature, and wandering through the c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## 📃 Blogs & Writing
+- [**My Transition from JavaScript to TypeScript**](https://dev.to/jordid13/my-transition-from-javascript-to-typescript-12e) — My personal experience diving into TypeScript: what drew me in, how it’s a superset of JavaScript, and how static typing and interfaces have empowered my code.  
